@@ -1,0 +1,29 @@
+# Unity 核心自动生成文件夹，完全不需要Git追踪
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+# VS/VS Code/Rider编辑器缓存与工程文件
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Windows/macOS系统自动生成的垃圾文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
